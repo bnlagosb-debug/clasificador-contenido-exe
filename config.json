@@ -1,0 +1,20 @@
+{
+  "input_dir": "C:\\Users\\TuUsuario\\Downloads\\ENTRADA",
+  "base_output_dir": "C:\\Users\\TuUsuario\\Downloads\\SALIDA",
+  "action": "move",
+  "dry_run": true,
+  "recursive": false,
+  "encoding_list": [
+    "utf-8",
+    "utf-8-sig",
+    "cp1252",
+    "latin-1"
+  ],
+  "line_prefix_regex": "^\\s*(\\d{2,5})-",
+  "scan_max_lines": 500,
+  "priority": "first",
+  "no_match_dest": "_NO_CLASIFICADO",
+  "allowed_extensions": [
+    "*"
+  ]
+}
